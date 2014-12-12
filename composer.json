@@ -1,7 +1,7 @@
 {
     "name": "pragmaticlinux/skeleton",
     "type": "library",
-    "description": "Skeleton frameowkr for frontend",
+    "description": "Skeleton framework for frontend",
     "keywords": ["log","logging"],
     "homepage": "http://github.com/Seldaek/monolog",
     "license": "MIT",
@@ -26,5 +26,5 @@
             "Monolog": "src"
         }
     },
-	"minimum-stability": "dev"
+	"minimum-stability": "stable"
 }
