@@ -2,8 +2,8 @@
     "name": "pragmaticlinux/skeleton",
     "type": "library",
     "description": "Skeleton frameowkr for frontend",
-    "keywords": ["log","logging"],
-    "homepage": "http://github.com/Seldaek/monolog",
+    "keywords": ["log","frame"],
+    "homepage": "http://www.pragmaticlinux.org",
     "license": "MIT",
     "authors": [
         {
