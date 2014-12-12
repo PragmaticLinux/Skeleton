@@ -18,12 +18,13 @@
     },
     "extra": {
             "branch-alias":{
-		"dev-master":"master-dev"
+		"dev-master":"v1.0-dev"
 		}
     },
     "autoload": {
         "psr-0": {
             "Monolog": "src"
         }
-    }
+    },
+	"minimum-stability": "dev"
 }
