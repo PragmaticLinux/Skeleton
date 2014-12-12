@@ -2,7 +2,7 @@
     "name": "pragmaticlinux/skeleton",
     "type": "library",
     "description": "Skeleton frameowkr for frontend",
-    "keywords": ["log","frame"],
+    "keywords": ["css","framework","front-end","html"],
     "homepage": "http://www.pragmaticlinux.org",
     "license": "MIT",
     "authors": [
