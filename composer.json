@@ -1,7 +1,7 @@
 {
     "name": "pragmaticlinux/skeleton",
     "type": "library",
-    "description": "Skeleton framewokr for frontend",
+    "description": "Skeleton framework for frontend",
     "keywords": ["css","framework","front-end","html"],
     "homepage": "http://www.pragmaticlinux.org",
     "license": "MIT",
